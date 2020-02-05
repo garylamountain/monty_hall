@@ -8,7 +8,7 @@ After cloning this project, you should be able to simply run ```ruby monty_hall.
 
 ## Results
 
-Pictured below are a few runs of the program. Please note that in each instance, the odds of winning when the player sticks to the original door are around 33.3%, and the odds of winning when the player switches doors are around 66.7%. This is expected behavior, which proves that our simulations of the Monty Hall problem are working as expected!
+Pictured below are a few runs of the program. Please note that in each instance, the odds of winning when the player sticks to the original door are around 33.3%, and the odds of winning when the player switches doors are around 66.7%. This is expected behavior, which proves that our simulations of the Monty Hall problem are working correctly!
 
 ![Results 1](https://i.imgur.com/GWoeUae.png)
 ![Results 2](https://i.imgur.com/otrhVEf.png)
